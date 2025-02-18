@@ -12,9 +12,11 @@ I'm a passionate Software Engineer with experience in developing Web-based and W
  <b>Tools:</b> MS Visual Studio Code, MS Visual Studio, Git, Postman 
 
 <h1>👨‍💻 Personal Projects</h1>
-- <a href="https://github.com/SreevidyaChGitHub/CalcMate"><b>CalcMate (Nov 2024 - Dec 2024)</b></a><br/>
+
+ - <a href="https://github.com/SreevidyaChGitHub/CalcMate"><b>CalcMate (Nov 2024 - Dec 2024)</b></a><br/>
       <b>Languages/Technologies:</b> React.js, JavaScript, HTML, CSS, Tailwind CSS<br/>
-      <b>Tools:</b> MS Visual Studio Code, Git, GitHub
+      <b>Tools:</b> MS Visual Studio Code, Git, GitHub <br/>
+      
 - <a href="https://github.com/SreevidyaChGitHub/AdminBookHub"><b>AdminBookHub (Aug 2024 - Sept 2024)</b></a><br/>
       <b>Languages/Technologies:</b> React.js, JavaScript, HTML, CSS<br/>
       <b>Databases:</b> Google's Firebase Realtime Database <br/>
